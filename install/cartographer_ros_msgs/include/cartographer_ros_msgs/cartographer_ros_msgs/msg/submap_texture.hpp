@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/submap_texture__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/submap_texture__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/submap_texture__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/submap_texture__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__SUBMAP_TEXTURE_HPP_

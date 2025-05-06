@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/compute_path_to_pose__struct.hpp"
 #include "nav2_msgs/action/detail/compute_path_to_pose__builder.hpp"
 #include "nav2_msgs/action/detail/compute_path_to_pose__traits.hpp"
+#include "nav2_msgs/action/detail/compute_path_to_pose__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__COMPUTE_PATH_TO_POSE_HPP_

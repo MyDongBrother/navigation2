@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/landmark_entry__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/landmark_entry__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/landmark_entry__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/landmark_entry__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__LANDMARK_ENTRY_HPP_

@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/srv/detail/submap_query__struct.hpp"
 #include "cartographer_ros_msgs/srv/detail/submap_query__builder.hpp"
 #include "cartographer_ros_msgs/srv/detail/submap_query__traits.hpp"
+#include "cartographer_ros_msgs/srv/detail/submap_query__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__SRV__SUBMAP_QUERY_HPP_

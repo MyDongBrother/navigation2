@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/srv/detail/write_state__struct.hpp"
 #include "cartographer_ros_msgs/srv/detail/write_state__builder.hpp"
 #include "cartographer_ros_msgs/srv/detail/write_state__traits.hpp"
+#include "cartographer_ros_msgs/srv/detail/write_state__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__SRV__WRITE_STATE_HPP_

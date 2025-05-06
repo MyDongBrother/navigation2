@@ -7,5 +7,6 @@
 #include "dwb_msgs/srv/detail/debug_local_plan__struct.hpp"
 #include "dwb_msgs/srv/detail/debug_local_plan__builder.hpp"
 #include "dwb_msgs/srv/detail/debug_local_plan__traits.hpp"
+#include "dwb_msgs/srv/detail/debug_local_plan__type_support.hpp"
 
 #endif  // DWB_MSGS__SRV__DEBUG_LOCAL_PLAN_HPP_

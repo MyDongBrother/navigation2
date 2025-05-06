@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/spin__struct.hpp"
 #include "nav2_msgs/action/detail/spin__builder.hpp"
 #include "nav2_msgs/action/detail/spin__traits.hpp"
+#include "nav2_msgs/action/detail/spin__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__SPIN_HPP_

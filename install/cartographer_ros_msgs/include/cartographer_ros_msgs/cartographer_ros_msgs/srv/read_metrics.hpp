@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/srv/detail/read_metrics__struct.hpp"
 #include "cartographer_ros_msgs/srv/detail/read_metrics__builder.hpp"
 #include "cartographer_ros_msgs/srv/detail/read_metrics__traits.hpp"
+#include "cartographer_ros_msgs/srv/detail/read_metrics__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__SRV__READ_METRICS_HPP_

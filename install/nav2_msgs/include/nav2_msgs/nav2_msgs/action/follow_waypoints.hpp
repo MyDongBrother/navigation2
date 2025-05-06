@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/follow_waypoints__struct.hpp"
 #include "nav2_msgs/action/detail/follow_waypoints__builder.hpp"
 #include "nav2_msgs/action/detail/follow_waypoints__traits.hpp"
+#include "nav2_msgs/action/detail/follow_waypoints__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__FOLLOW_WAYPOINTS_HPP_

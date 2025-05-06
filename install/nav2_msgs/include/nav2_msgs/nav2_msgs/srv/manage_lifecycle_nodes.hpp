@@ -7,5 +7,6 @@
 #include "nav2_msgs/srv/detail/manage_lifecycle_nodes__struct.hpp"
 #include "nav2_msgs/srv/detail/manage_lifecycle_nodes__builder.hpp"
 #include "nav2_msgs/srv/detail/manage_lifecycle_nodes__traits.hpp"
+#include "nav2_msgs/srv/detail/manage_lifecycle_nodes__type_support.hpp"
 
 #endif  // NAV2_MSGS__SRV__MANAGE_LIFECYCLE_NODES_HPP_

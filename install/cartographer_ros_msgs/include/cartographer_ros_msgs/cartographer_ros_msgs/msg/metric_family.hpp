@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/metric_family__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/metric_family__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/metric_family__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/metric_family__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__METRIC_FAMILY_HPP_

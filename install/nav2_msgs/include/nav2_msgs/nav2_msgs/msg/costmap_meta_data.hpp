@@ -7,5 +7,6 @@
 #include "nav2_msgs/msg/detail/costmap_meta_data__struct.hpp"
 #include "nav2_msgs/msg/detail/costmap_meta_data__builder.hpp"
 #include "nav2_msgs/msg/detail/costmap_meta_data__traits.hpp"
+#include "nav2_msgs/msg/detail/costmap_meta_data__type_support.hpp"
 
 #endif  // NAV2_MSGS__MSG__COSTMAP_META_DATA_HPP_

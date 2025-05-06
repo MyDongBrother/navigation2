@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/back_up__struct.hpp"
 #include "nav2_msgs/action/detail/back_up__builder.hpp"
 #include "nav2_msgs/action/detail/back_up__traits.hpp"
+#include "nav2_msgs/action/detail/back_up__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__BACK_UP_HPP_

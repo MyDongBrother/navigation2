@@ -7,5 +7,6 @@
 #include "dwb_msgs/srv/detail/generate_twists__struct.hpp"
 #include "dwb_msgs/srv/detail/generate_twists__builder.hpp"
 #include "dwb_msgs/srv/detail/generate_twists__traits.hpp"
+#include "dwb_msgs/srv/detail/generate_twists__type_support.hpp"
 
 #endif  // DWB_MSGS__SRV__GENERATE_TWISTS_HPP_

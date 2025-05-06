@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/histogram_bucket__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/histogram_bucket__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/histogram_bucket__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/histogram_bucket__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__HISTOGRAM_BUCKET_HPP_

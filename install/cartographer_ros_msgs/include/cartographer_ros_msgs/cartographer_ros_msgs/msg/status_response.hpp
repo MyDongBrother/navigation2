@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/status_response__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/status_response__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/status_response__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/status_response__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__STATUS_RESPONSE_HPP_

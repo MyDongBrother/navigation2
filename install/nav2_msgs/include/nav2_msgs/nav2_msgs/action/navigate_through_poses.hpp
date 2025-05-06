@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/navigate_through_poses__struct.hpp"
 #include "nav2_msgs/action/detail/navigate_through_poses__builder.hpp"
 #include "nav2_msgs/action/detail/navigate_through_poses__traits.hpp"
+#include "nav2_msgs/action/detail/navigate_through_poses__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__NAVIGATE_THROUGH_POSES_HPP_

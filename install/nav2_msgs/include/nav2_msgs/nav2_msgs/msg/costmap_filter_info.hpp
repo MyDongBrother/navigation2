@@ -7,5 +7,6 @@
 #include "nav2_msgs/msg/detail/costmap_filter_info__struct.hpp"
 #include "nav2_msgs/msg/detail/costmap_filter_info__builder.hpp"
 #include "nav2_msgs/msg/detail/costmap_filter_info__traits.hpp"
+#include "nav2_msgs/msg/detail/costmap_filter_info__type_support.hpp"
 
 #endif  // NAV2_MSGS__MSG__COSTMAP_FILTER_INFO_HPP_

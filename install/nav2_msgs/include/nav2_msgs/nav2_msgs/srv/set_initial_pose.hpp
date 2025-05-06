@@ -7,5 +7,6 @@
 #include "nav2_msgs/srv/detail/set_initial_pose__struct.hpp"
 #include "nav2_msgs/srv/detail/set_initial_pose__builder.hpp"
 #include "nav2_msgs/srv/detail/set_initial_pose__traits.hpp"
+#include "nav2_msgs/srv/detail/set_initial_pose__type_support.hpp"
 
 #endif  // NAV2_MSGS__SRV__SET_INITIAL_POSE_HPP_

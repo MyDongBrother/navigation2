@@ -7,5 +7,6 @@
 #include "dwb_msgs/msg/detail/trajectory_score__struct.hpp"
 #include "dwb_msgs/msg/detail/trajectory_score__builder.hpp"
 #include "dwb_msgs/msg/detail/trajectory_score__traits.hpp"
+#include "dwb_msgs/msg/detail/trajectory_score__type_support.hpp"
 
 #endif  // DWB_MSGS__MSG__TRAJECTORY_SCORE_HPP_

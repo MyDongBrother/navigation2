@@ -7,5 +7,6 @@
 #include "nav2_msgs/msg/detail/voxel_grid__struct.hpp"
 #include "nav2_msgs/msg/detail/voxel_grid__builder.hpp"
 #include "nav2_msgs/msg/detail/voxel_grid__traits.hpp"
+#include "nav2_msgs/msg/detail/voxel_grid__type_support.hpp"
 
 #endif  // NAV2_MSGS__MSG__VOXEL_GRID_HPP_

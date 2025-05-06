@@ -7,5 +7,6 @@
 #include "nav2_msgs/srv/detail/get_costmap__struct.hpp"
 #include "nav2_msgs/srv/detail/get_costmap__builder.hpp"
 #include "nav2_msgs/srv/detail/get_costmap__traits.hpp"
+#include "nav2_msgs/srv/detail/get_costmap__type_support.hpp"
 
 #endif  // NAV2_MSGS__SRV__GET_COSTMAP_HPP_

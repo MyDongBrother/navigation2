@@ -7,5 +7,6 @@
 #include "nav2_msgs/srv/detail/load_map__struct.hpp"
 #include "nav2_msgs/srv/detail/load_map__builder.hpp"
 #include "nav2_msgs/srv/detail/load_map__traits.hpp"
+#include "nav2_msgs/srv/detail/load_map__type_support.hpp"
 
 #endif  // NAV2_MSGS__SRV__LOAD_MAP_HPP_

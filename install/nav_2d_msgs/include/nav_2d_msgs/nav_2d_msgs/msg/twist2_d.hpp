@@ -7,5 +7,6 @@
 #include "nav_2d_msgs/msg/detail/twist2_d__struct.hpp"
 #include "nav_2d_msgs/msg/detail/twist2_d__builder.hpp"
 #include "nav_2d_msgs/msg/detail/twist2_d__traits.hpp"
+#include "nav_2d_msgs/msg/detail/twist2_d__type_support.hpp"
 
 #endif  // NAV_2D_MSGS__MSG__TWIST2_D_HPP_

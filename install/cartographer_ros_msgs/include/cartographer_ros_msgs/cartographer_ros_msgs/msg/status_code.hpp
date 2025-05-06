@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/status_code__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/status_code__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/status_code__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/status_code__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__STATUS_CODE_HPP_

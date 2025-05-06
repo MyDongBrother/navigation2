@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/landmark_list__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/landmark_list__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/landmark_list__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/landmark_list__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__LANDMARK_LIST_HPP_

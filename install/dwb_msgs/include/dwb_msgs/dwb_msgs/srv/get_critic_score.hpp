@@ -7,5 +7,6 @@
 #include "dwb_msgs/srv/detail/get_critic_score__struct.hpp"
 #include "dwb_msgs/srv/detail/get_critic_score__builder.hpp"
 #include "dwb_msgs/srv/detail/get_critic_score__traits.hpp"
+#include "dwb_msgs/srv/detail/get_critic_score__type_support.hpp"
 
 #endif  // DWB_MSGS__SRV__GET_CRITIC_SCORE_HPP_

@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/drive_on_heading__struct.hpp"
 #include "nav2_msgs/action/detail/drive_on_heading__builder.hpp"
 #include "nav2_msgs/action/detail/drive_on_heading__traits.hpp"
+#include "nav2_msgs/action/detail/drive_on_heading__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__DRIVE_ON_HEADING_HPP_

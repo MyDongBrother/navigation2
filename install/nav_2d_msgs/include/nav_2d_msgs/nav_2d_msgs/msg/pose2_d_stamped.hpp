@@ -7,5 +7,6 @@
 #include "nav_2d_msgs/msg/detail/pose2_d_stamped__struct.hpp"
 #include "nav_2d_msgs/msg/detail/pose2_d_stamped__builder.hpp"
 #include "nav_2d_msgs/msg/detail/pose2_d_stamped__traits.hpp"
+#include "nav_2d_msgs/msg/detail/pose2_d_stamped__type_support.hpp"
 
 #endif  // NAV_2D_MSGS__MSG__POSE2_D_STAMPED_HPP_

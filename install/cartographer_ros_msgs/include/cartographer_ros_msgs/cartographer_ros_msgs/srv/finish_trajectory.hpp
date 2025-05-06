@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/srv/detail/finish_trajectory__struct.hpp"
 #include "cartographer_ros_msgs/srv/detail/finish_trajectory__builder.hpp"
 #include "cartographer_ros_msgs/srv/detail/finish_trajectory__traits.hpp"
+#include "cartographer_ros_msgs/srv/detail/finish_trajectory__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__SRV__FINISH_TRAJECTORY_HPP_

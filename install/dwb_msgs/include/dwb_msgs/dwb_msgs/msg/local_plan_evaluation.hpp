@@ -7,5 +7,6 @@
 #include "dwb_msgs/msg/detail/local_plan_evaluation__struct.hpp"
 #include "dwb_msgs/msg/detail/local_plan_evaluation__builder.hpp"
 #include "dwb_msgs/msg/detail/local_plan_evaluation__traits.hpp"
+#include "dwb_msgs/msg/detail/local_plan_evaluation__type_support.hpp"
 
 #endif  // DWB_MSGS__MSG__LOCAL_PLAN_EVALUATION_HPP_

@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/srv/detail/trajectory_query__struct.hpp"
 #include "cartographer_ros_msgs/srv/detail/trajectory_query__builder.hpp"
 #include "cartographer_ros_msgs/srv/detail/trajectory_query__traits.hpp"
+#include "cartographer_ros_msgs/srv/detail/trajectory_query__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__SRV__TRAJECTORY_QUERY_HPP_

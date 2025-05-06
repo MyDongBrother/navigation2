@@ -7,5 +7,6 @@
 #include "dwb_msgs/srv/detail/generate_trajectory__struct.hpp"
 #include "dwb_msgs/srv/detail/generate_trajectory__builder.hpp"
 #include "dwb_msgs/srv/detail/generate_trajectory__traits.hpp"
+#include "dwb_msgs/srv/detail/generate_trajectory__type_support.hpp"
 
 #endif  // DWB_MSGS__SRV__GENERATE_TRAJECTORY_HPP_

@@ -7,5 +7,6 @@
 #include "nav2_msgs/action/detail/follow_path__struct.hpp"
 #include "nav2_msgs/action/detail/follow_path__builder.hpp"
 #include "nav2_msgs/action/detail/follow_path__traits.hpp"
+#include "nav2_msgs/action/detail/follow_path__type_support.hpp"
 
 #endif  // NAV2_MSGS__ACTION__FOLLOW_PATH_HPP_

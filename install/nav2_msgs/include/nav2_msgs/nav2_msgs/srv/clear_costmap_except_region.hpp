@@ -7,5 +7,6 @@
 #include "nav2_msgs/srv/detail/clear_costmap_except_region__struct.hpp"
 #include "nav2_msgs/srv/detail/clear_costmap_except_region__builder.hpp"
 #include "nav2_msgs/srv/detail/clear_costmap_except_region__traits.hpp"
+#include "nav2_msgs/srv/detail/clear_costmap_except_region__type_support.hpp"
 
 #endif  // NAV2_MSGS__SRV__CLEAR_COSTMAP_EXCEPT_REGION_HPP_

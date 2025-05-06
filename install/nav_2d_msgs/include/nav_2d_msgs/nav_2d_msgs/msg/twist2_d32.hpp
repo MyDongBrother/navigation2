@@ -7,5 +7,6 @@
 #include "nav_2d_msgs/msg/detail/twist2_d32__struct.hpp"
 #include "nav_2d_msgs/msg/detail/twist2_d32__builder.hpp"
 #include "nav_2d_msgs/msg/detail/twist2_d32__traits.hpp"
+#include "nav_2d_msgs/msg/detail/twist2_d32__type_support.hpp"
 
 #endif  // NAV_2D_MSGS__MSG__TWIST2_D32_HPP_

@@ -7,5 +7,6 @@
 #include "cartographer_ros_msgs/msg/detail/submap_list__struct.hpp"
 #include "cartographer_ros_msgs/msg/detail/submap_list__builder.hpp"
 #include "cartographer_ros_msgs/msg/detail/submap_list__traits.hpp"
+#include "cartographer_ros_msgs/msg/detail/submap_list__type_support.hpp"
 
 #endif  // CARTOGRAPHER_ROS_MSGS__MSG__SUBMAP_LIST_HPP_
